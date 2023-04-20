@@ -4,3 +4,11 @@ a{
 body{
     
 }
+.bookmarkletlink{
+    background: rgb(10,0,255);
+background: linear-gradient(165deg, rgba(10,0,255,1) 0%, rgba(175,175,175,1) 53%, rgba(153,254,144,1) 99%);
+}
+.bookmarkletlink :hover{
+    background: rgb(10,0,255);
+background: linear-gradient(165deg, rgba(10,0,255,1) 0%, rgba(108,108,108,1) 53%, rgba(153,254,144,1) 99%);
+}
